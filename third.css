@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+}
+.h1{
+    font-size: x-large;
+    font-weight: bold;
+    border-bottom: 2px;
+    color: green;
+}
+h2{
+    font-weight: bolder;
+}
+#para1{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#img1{
+    border-style:dashed;
+    border-color: black;
+    height: 700px;
+}
+#para2{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+#img2{
+    border-style: solid;
+    border-color: black;
+    height: 750px;
+    width: 500px;
+}
+#h1{
+    color: red;
+    border-style: dashed;
+    border-bottom-color: green;
+}
+#h4{
+    color: green;
+}
